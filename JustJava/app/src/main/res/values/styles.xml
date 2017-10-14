@@ -7,5 +7,18 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+    <style name="HeaderTextStyle" parent="android:TextAppearance.Widget.TextView">
+        <item name="android:textAllCaps"> true</item>>
+        <item name="android:textSize">15sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>>
+    <style name="Theme1" parent="Theme.AppCompat.Light">
+        <!-- customize the color palette -->
+        <item name="colorPrimary">#8D6E63</item>
+        <item name="colorPrimaryDark">#5D4037</item>
+        <item name="colorAccent">#D7CCC8</item>
+    </style>
 
 </resources>
