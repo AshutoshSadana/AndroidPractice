@@ -11,36 +11,36 @@
 
 
     <LinearLayout
-        android:id="@+id/question_1_container"
-        style="@style/question_container_style">
+        android:id="@+id/ques1_layout"
+        style="@style/ques_layout_style">
 
         <TextView
-            style="@style/question_style"
+            style="@style/ques_style"
             android:text="@string/question_1"/>
 
         <RadioGroup
-            android:id="@+id/question_1_radio_group"
+            android:id="@+id/ques1_radio_grp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
 
             android:orientation="horizontal">
 
             <RadioButton
-                android:id="@+id/question_1_first_logo_radio"
+                android:id="@+id/ques1_radio1"
                 android:text="Gateway Of India"
-                style="@style/question_radio_button_style"
+                style="@style/radio_button_style"
                 />
 
             <RadioButton
-                android:id="@+id/question_1_second_logo_radio"
+                android:id="@+id/ques1_radio2"
                 android:text="Charminar"
-                style="@style/question_radio_button_style"
+                style="@style/radio_button_style"
                 />
 
             <RadioButton
-                android:id="@+id/question_1_third_logo_radio"
+                android:id="@+id/ques1_radio3"
                 android:text="India Gate"
-                style="@style/question_radio_button_style"
+                style="@style/radio_button_style"
                 />
         </RadioGroup>
         </LinearLayout>
@@ -52,35 +52,35 @@
         android:orientation="vertical">
 
         <LinearLayout
-            android:id="@+id/question_2_container"
-            style="@style/question_container_style">
+            android:id="@+id/ques2_layout"
+            style="@style/ques_layout_style">
 
             <TextView
-                style="@style/question_style"
+                style="@style/ques_style"
                 android:text="@string/question_2"/>
 
             <RadioGroup
-                android:id="@+id/question_2_radio_group"
+                android:id="@+id/ques2_radio_grp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal">
 
                 <RadioButton
-                    android:id="@+id/question_2_first_logo_radio"
+                    android:id="@+id/ques2_radio1"
                     android:text=""
-                    style="@style/question_radio_button_style"
+                    style="@style/radio_button_style"
                     />
 
                 <RadioButton
-                    android:id="@+id/question_2_second_logo_radio"
+                    android:id="@+id/ques2_radio2"
                     android:text=""
-                    style="@style/question_radio_button_style"
+                    style="@style/radio_button_style"
                     />
 
                 <RadioButton
-                    android:id="@+id/question_2_third_logo_radio"
+                    android:id="@+id/ques2_radio3"
                     android:text=""
-                    style="@style/question_radio_button_style"
+                    style="@style/radio_button_style"
                     />
             </RadioGroup>
 
@@ -89,10 +89,10 @@
                 android:layout_height="wrap_content">
 
                 <LinearLayout
-                    style="@style/radio_group_linear_layout_style">
+                    style="@style/radio_grp_linear_layout_style">
 
                     <ImageView
-                        android:id="@+id/question_2_first_logo"
+                        android:id="@+id/ques2_logo1"
                         android:layout_width="match_parent"
                         android:layout_height="80dp"
                         android:src="@drawable/amazon_logo"/>
@@ -100,10 +100,10 @@
                 </LinearLayout>
 
                 <LinearLayout
-                    style="@style/radio_group_linear_layout_style">
+                    style="@style/radio_grp_linear_layout_style">
 
                     <ImageView
-                        android:id="@+id/question_2_second_logo"
+                        android:id="@+id/ques2_logo2"
                         android:layout_width="match_parent"
                         android:layout_height="80dp"
                         android:src="@drawable/bmw_logo"/>
@@ -111,10 +111,10 @@
                 </LinearLayout>
 
                 <LinearLayout
-                    style="@style/radio_group_linear_layout_style">
+                    style="@style/radio_grp_linear_layout_style">
 
                     <ImageView
-                        android:id="@+id/question_2_third_logo"
+                        android:id="@+id/ques2_logo3"
                         android:layout_width="match_parent"
                         android:layout_height="80dp"
                         android:src="@drawable/lulu_logo"
@@ -126,21 +126,21 @@
     </LinearLayout>
 
         <LinearLayout
-            android:id="@+id/question_3_container"
-            style="@style/question_container_style">
+            android:id="@+id/ques3_layout"
+            style="@style/ques_layout_style">
             <TextView
-                style="@style/question_style"
+                style="@style/ques_style"
                 android:text="@string/question_3"/>
 
             <ImageView
-                android:id="@+id/question_3_logo"
+                android:id="@+id/ques3_logo"
                 android:layout_width="360dp"
                 android:layout_height="200dp"
                 android:layout_gravity="center"
                 android:src="@drawable/taj_mahal"/>
 
             <EditText
-                android:id="@+id/question_3_edit_text"
+                android:id="@+id/ques3_edit_text"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint=""/>
@@ -153,35 +153,35 @@
         android:orientation="vertical">
 
         <LinearLayout
-            android:id="@+id/question_4_container"
-            style="@style/question_container_style">
+            android:id="@+id/ques4_layout"
+            style="@style/ques_layout_style">
 
             <TextView
-                style="@style/question_style"
+                style="@style/ques_style"
                 android:text="@string/question_4"/>
 
             <RadioGroup
-                android:id="@+id/question_4_radio_group"
+                android:id="@+id/ques_4_radio_grp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal">
 
                 <RadioButton
-                    android:id="@+id/question_4_first_logo_radio"
+                    android:id="@+id/ques4_radio1"
                     android:text=""
-                    style="@style/question_radio_button_style"
+                    style="@style/radio_button_style"
                     />
 
                 <RadioButton
-                    android:id="@+id/question_4_second_logo_radio"
+                    android:id="@+id/ques4_radio2"
                     android:text=""
-                    style="@style/question_radio_button_style"
+                    style="@style/radio_button_style"
                     />
 
                 <RadioButton
-                    android:id="@+id/question_4_third_logo_radio"
+                    android:id="@+id/ques4_radio3"
                     android:text=""
-                    style="@style/question_radio_button_style"
+                    style="@style/radio_button_style"
                     />
             </RadioGroup>
 
@@ -190,10 +190,10 @@
                 android:layout_height="wrap_content">
 
                 <LinearLayout
-                    style="@style/radio_group_linear_layout_style">
+                    style="@style/radio_grp_linear_layout_style">
 
                     <ImageView
-                        android:id="@+id/question_4_first_logo"
+                        android:id="@+id/ques4_logo1"
                         android:layout_width="match_parent"
                         android:layout_height="80dp"
                         android:src="@drawable/ruppee_logo"/>
@@ -201,10 +201,10 @@
                 </LinearLayout>
 
                 <LinearLayout
-                    style="@style/radio_group_linear_layout_style">
+                    style="@style/radio_grp_linear_layout_style">
 
                     <ImageView
-                        android:id="@+id/question_4_second_logo"
+                        android:id="@+id/ques4_logo2"
                         android:layout_width="match_parent"
                         android:layout_height="80dp"
                         android:src="@drawable/yen_logo"/>
@@ -212,10 +212,10 @@
                 </LinearLayout>
 
                 <LinearLayout
-                    style="@style/radio_group_linear_layout_style">
+                    style="@style/radio_grp_linear_layout_style">
 
                     <ImageView
-                        android:id="@+id/question_4_third_logo"
+                        android:id="@+id/ques4_logo3"
                         android:layout_width="match_parent"
                         android:layout_height="80dp"
                         android:src="@drawable/dollar_logo"
@@ -228,11 +228,11 @@
 
 
         <LinearLayout
-            android:id="@+id/question_5_container"
-            style="@style/question_container_style">
+            android:id="@+id/ques5_layout"
+            style="@style/ques_layout_style">
 
             <TextView
-                style="@style/question_style"
+                style="@style/ques_style"
                 android:text="@string/question_5"/>
 
             <LinearLayout
@@ -244,13 +244,13 @@
                     style="@style/checkbox_group_layout_style">
 
                     <CheckBox
-                        android:id="@+id/question_5_first_checkbox"
+                        android:id="@+id/ques5_checkbox1"
                         android:text=""
                         style="@style/question_checkbox_style"
                         />
 
                     <ImageView
-                        android:id="@+id/question_5_first_checkbox_logo"
+                        android:id="@+id/ques5_logo1"
                         android:layout_width="match_parent"
                         android:layout_height="80dp"
                         android:src="@drawable/jabong_logo"/>
@@ -261,13 +261,13 @@
                     style="@style/checkbox_group_layout_style">
 
                     <CheckBox
-                        android:id="@+id/question_5_second_checkbox"
+                        android:id="@+id/ques5_checkbox2"
                         android:text=""
                         style="@style/question_checkbox_style"
                         />
 
                     <ImageView
-                        android:id="@+id/question_5_second_checkbox_logo"
+                        android:id="@+id/ques5_logo2"
                         android:layout_width="match_parent"
                         android:layout_height="80dp"
                         android:src="@drawable/toyota_logo"/>
@@ -278,13 +278,13 @@
                     style="@style/checkbox_group_layout_style">
 
                     <CheckBox
-                        android:id="@+id/question_5_third_checkbox"
+                        android:id="@+id/ques5_checkbox3"
                         android:text=""
                         style="@style/question_checkbox_style"
                         />
 
                     <ImageView
-                        android:id="@+id/question_5_third_checkbox_logo"
+                        android:id="@+id/ques5_logo3"
                         android:layout_width="match_parent"
                         android:layout_height="80dp"
                         android:src="@drawable/ebay_logo"/>
@@ -298,11 +298,11 @@
 
 
         <Button
-            android:id="@+id/submit_button"
+            android:id="@+id/submitButton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Submit"
-            android:onClick="checkQuiz"/>
+            android:onClick="submitQuiz"/>
 
     </LinearLayout>
 
