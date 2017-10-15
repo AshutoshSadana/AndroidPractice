@@ -67,19 +67,16 @@
 
                 <RadioButton
                     android:id="@+id/ques2_radio1"
-                    android:text=""
                     style="@style/radio_button_style"
                     />
 
                 <RadioButton
                     android:id="@+id/ques2_radio2"
-                    android:text=""
                     style="@style/radio_button_style"
                     />
 
                 <RadioButton
                     android:id="@+id/ques2_radio3"
-                    android:text=""
                     style="@style/radio_button_style"
                     />
             </RadioGroup>
@@ -117,7 +114,7 @@
                         android:id="@+id/ques2_logo3"
                         android:layout_width="match_parent"
                         android:layout_height="80dp"
-                        android:src="@drawable/lulu_logo"
+                        android:src="@drawable/java_logo"
                         />
 
                 </LinearLayout>
@@ -168,19 +165,16 @@
 
                 <RadioButton
                     android:id="@+id/ques4_radio1"
-                    android:text=""
                     style="@style/radio_button_style"
                     />
 
                 <RadioButton
                     android:id="@+id/ques4_radio2"
-                    android:text=""
                     style="@style/radio_button_style"
                     />
 
                 <RadioButton
                     android:id="@+id/ques4_radio3"
-                    android:text=""
                     style="@style/radio_button_style"
                     />
             </RadioGroup>
@@ -245,7 +239,6 @@
 
                     <CheckBox
                         android:id="@+id/ques5_checkbox1"
-                        android:text=""
                         style="@style/question_checkbox_style"
                         />
 
@@ -262,7 +255,6 @@
 
                     <CheckBox
                         android:id="@+id/ques5_checkbox2"
-                        android:text=""
                         style="@style/question_checkbox_style"
                         />
 
@@ -270,7 +262,7 @@
                         android:id="@+id/ques5_logo2"
                         android:layout_width="match_parent"
                         android:layout_height="80dp"
-                        android:src="@drawable/toyota_logo"/>
+                        android:src="@drawable/walmart_logo"/>
 
                 </LinearLayout>
 
@@ -279,7 +271,6 @@
 
                     <CheckBox
                         android:id="@+id/ques5_checkbox3"
-                        android:text=""
                         style="@style/question_checkbox_style"
                         />
 
