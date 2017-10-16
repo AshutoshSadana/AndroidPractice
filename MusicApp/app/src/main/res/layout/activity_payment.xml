@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="32dp"
+    android:paddingRight="32dp"
+    android:paddingTop="16dp"
+    android:orientation="vertical"
+    android:background="@drawable/background">
+
+    <TextView
+        style="@style/text_view"
+        android:text="@string/payment_detail_page_explanation"/>
+
+    <Button
+        android:id="@+id/back_genre_button_2"
+        style="@style/button_view"
+        android:text="@string/back_button"/>
+    <Button
+        android:id="@+id/back_stream_button"
+        style="@style/button_view"
+        android:text="@string/back_stream_button"/>
+
+</LinearLayout>

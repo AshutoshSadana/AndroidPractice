@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Music App v1</string>
+    <string name="genre_1_text">Pop</string>
+    <string name="genre_2_text">RnB</string>
+    <string name="genre_3_text">Hip Hop</string>
+    <string name="genre_4_text">Rock</string>
+    <string name="genre_5_text">Jazz</string>
+    <string name="genre_6_text">EDM / Dance</string>
+    <string name="genre_7_text">Classical</string>
+    <string name="genre_page_explanation">
+        "Its a basic design template focusing on structure of a music player android application.\n
+         This screen would list the top hits for the selected genre.\n
+        Using the MediaPlayer class of Android SDK, we can playback audio from a source."
+    </string>
+    <string name="track_detail_page_explanation">This activity displays the chosen song and will stream it.</string>
+    <string name="payment_detail_page_explanation">
+        "This activity will displays the payment options.\n
+        The Android Pay API offers a quick and easy path to enable secure,\n
+        one touch payments in your app using your existing payment infrastructure."
+    </string>
+    <string name="play_song">Play Song</string>
+    <string name="back_button">Back to Genre</string>
+    <string name="pay_button">Payment</string>
+    <string name="buy_now_button">Buy Now!!</string>
+    <string name="back_stream_button">Stream Song Again</string>
+</resources>
