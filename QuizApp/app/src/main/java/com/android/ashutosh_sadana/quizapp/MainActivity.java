@@ -27,10 +27,13 @@ public class MainActivity extends AppCompatActivity {
 
 
         int correctAnswers = 0;
+        int incorrectAnswers = 0;
 
         RadioGroup rg = (RadioGroup) findViewById(R.id.ques1_radio_grp);
         if( rg.getCheckedRadioButtonId() == ANS_1 ) {
             correctAnswers++;
+        } else{
+            incorrectAnswers++;
         }
 
 
@@ -39,17 +42,23 @@ public class MainActivity extends AppCompatActivity {
 
         if( rg2.getCheckedRadioButtonId() == ANS_2 ) {
             correctAnswers++;
+        } else{
+            incorrectAnswers++;
         }
 
         EditText et = (EditText)findViewById(R.id.ques3_edit_text);
-        if (et.getText().toString().equalsIgnoreCase(ANS_3)) {
+        if (et.getText().toString().trim().equalsIgnoreCase(ANS_3)) {
             correctAnswers++;
+        } else{
+            incorrectAnswers++;
         }
 
         RadioGroup rg4 = (RadioGroup) findViewById(R.id.ques_4_radio_grp);
 
         if( rg4.getCheckedRadioButtonId() == ANS_4) {
             correctAnswers++;
+        } else{
+            incorrectAnswers++;
         }
 
         CheckBox c1 = (CheckBox) findViewById(R.id.ques5_checkbox1);
@@ -57,10 +66,12 @@ public class MainActivity extends AppCompatActivity {
         CheckBox c3 = (CheckBox) findViewById(R.id.ques5_checkbox3);
         if (c1.isChecked() && c3.isChecked() && !c2.isChecked()) {
             correctAnswers++;
+        } else{
+            incorrectAnswers++;
         }
 
         Context context = getApplicationContext();
-        CharSequence text = "You got " + correctAnswers + "/5 answers right.";
+        CharSequence text = "You got " + correctAnswers + "/5 answers right.\nYou got " + incorrectAnswers +"/5 answers wrong.";
         int duration = Toast.LENGTH_SHORT;
 
         Toast toast = Toast.makeText(context, text, duration);
