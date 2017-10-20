@@ -23,4 +23,9 @@
     <string name="pay_button">Payment</string>
     <string name="buy_now_button">Buy Now!!</string>
     <string name="back_stream_button">Stream Song Again</string>
+    <string name="genre_text_lable">This page shows list of all genre available</string>
+    <string name="genre_lable">Genre List</string>
+    <string name="genre_detail_lable">Genre Details </string>
+    <string name="track_detail_lable">Song Details</string>
+    <string name="payment_lable">Payment Details</string>
 </resources>

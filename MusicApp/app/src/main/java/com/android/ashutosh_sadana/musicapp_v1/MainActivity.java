@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
         ViewGroup group = (ViewGroup)findViewById(R.id.genre_list_layout);
         View v;
-        for(int i = 0; i < group.getChildCount(); i++) {
+        for(int i = 1; i < group.getChildCount(); i++) {
             v = group.getChildAt(i);
             if(v instanceof TextView) {
                 v.setOnClickListener(new View.OnClickListener(){

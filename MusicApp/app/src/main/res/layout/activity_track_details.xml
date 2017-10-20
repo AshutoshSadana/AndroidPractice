@@ -11,6 +11,12 @@
     android:background="@drawable/background">
 
     <TextView
+        style="@style/label"
+        android:background="#BDBDBD"
+        android:text="@string/track_detail_lable"
+        />
+
+    <TextView
         style="@style/text_view"
         android:text="@string/track_detail_page_explanation"/>
 

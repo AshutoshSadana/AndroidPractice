@@ -8,11 +8,26 @@
     android:orientation="vertical"
     tools:context="com.android.ashutosh_sadana.musicapp_v1.MainActivity">
 
+
+  <TextView
+        style="@style/label"
+        android:background="#BDBDBD"
+        android:textSize="18sp"
+        android:text="@string/genre_lable"
+        />
+
+    <TextView
+        style="@style/label"
+        android:background="#ECEFF1"
+        android:text="@string/genre_text_lable"
+        />
+
     <TextView
         android:id="@+id/genre_1_text_view"
         style="@style/genre_list"
         android:background="@color/listColorOdd"
-        android:text="@string/genre_1_text" />
+        android:text="@string/genre_1_text"
+        />
 
     <TextView
         android:id="@+id/genre_2_text_view"
