@@ -1,0 +1,165 @@
+
+<resources>
+    <string name="app_name">Delhi Guide</string>
+    <string name="category_sights">Sights</string>
+    <string name="category_info">Info</string>
+    <string name="category_shops">Shops</string>
+    <string name="category_food">Food</string>
+
+    <string name="food_parantha_name">Paranthe Wali Gali</string>
+    <string name="food_parantha_description">Historic Paranthe Wali Gali became a renowned gourmet location after its
+        parantha shops opened up there in the 1870s. </string>
+    <string name="food_parantha_address">Chandani Chowk</string>
+    <string name="food_parantha_phone">......</string>
+    <string name="food_parantha_schedule">All Days 8:30am - 12am </string>
+
+    <string name="food_price_two">$$</string>
+    <string name="food_roshan_name">Roshan Di Kulfi</string>
+    <string name="food_roshan_description">When it comes to kulfi (ice cream), some of the best has
+        been made by the Roshan family in Karol Bagh since the early 1900s</string>
+    <string name="food_roshan_address">Karol Bagh, New Delhi</string>
+    <string name="food_roshan_phone">+91-23232430.</string>
+    <string name="food_roshan_schedule">All Days 9am. - 10.30pm</string>
+
+    <string name="food_haldiram_name">Haldirams</string>
+    <string name="food_haldiram_description">Haldiram is India one of the most popular brand for snacks and Sweets.
+        They offer a wide range of Sweets, Namkeens,gourmet food, Wraps and many more.</string>
+    <string name="food_haldiram_address">Canaught Place,New Delhi</string>
+    <string name="food_haldiram_phone">+91-333444001</string>
+    <string name="food_haldiram_schedule">All Days 10am - 11pm</string>
+    <string name="food_price_one">$</string>
+
+    <string name="food_kulcha_name">Kulcha King</string>
+    <string name="food_kulcha_description"> Looking for Amritsari food in Delhi? Kulcha King is the place for it.</string>
+    <string name="food_kulcha_address">Sarojini Nagra Market, New Delhi</string>
+    <string name="food_kulcha_phone">+91 2532267</string>
+    <string name="food_kulcha_schedule">All Days 10am - 11pm</string>
+    <string name="food_price_three">$$$</string>
+
+
+    <string name="food_bukhara_name">Bukhara Grill</string>
+    <string name="food_bukhara_description">Restaurant tasty grill delicacies .</string>
+    <string name="food_bukhara_address">ITC, Maurya ,Chankaya Puri, New Delhi</string>
+    <string name="food_bukhara_phone">+91 25256-5525</string>
+    <string name="food_bukhara_schedule">All Days 10 am – 12am</string>
+    <string name="food_price_four">$$$$</string>
+
+    <string name="food_bishan_name">Bishan Swaroop Chat</string>
+    <string name="food_bishan_description">Bishan Swaroop can be challenging to find but chat is worth it.
+        Its hidden away in one of Chandni Chowks unruly side streets.</string>
+    <string name="food_bishan_address">Chandani Chowk, Delhi</string>
+    <string name="food_bishan_phone">+91 25269-7216</string>
+    <string name="food_bishan_schedule">All Days 8:30am - 10pm</string>
+
+
+    <string name="info_internet_name">Internet</string>
+    <string name="info_internet_description">Rent a pocket WIFI to have internet access everywhere.
+        It is very convenient when travelling since most of the hotels have limited internet access.
+        It works even in the subway!</string>
+
+    <string name="info_247_name">Convenience stores</string>
+    <string name="info_247_description">Did you forget your toothbrush? Are you jet-lagged
+        and need a coffee fix at 4am?
+        \n\nYou need a Shopping store 24X7, a convenience store that is open 24/7. Here you will find from
+        food and drinks, to first necessity articles.
+        \n\nSome known 24X7 chains are in :
+        \n- Kirti Nagar
+        \n- Rajouri Garden
+        \n- Terminal 1D
+        \n- Cannaught Place</string>
+
+    <string name="info_transport_name">Delhi Metro Card</string>
+
+    <string name="info_transport_description">The Delhi Metro card is a prepaid smart card that
+        allows you to use most public transport (metro train) in Delhi.
+        The card is debited for every trip or purchase you make when you touch the card
+        to the reader. </string>
+
+    <string name="shop_dilli_name">Dilli Haat</string>
+    <string name="shop_dilli_description">This huge shopping market in Delhi has been deliberately
+        made to feel like a traditional weekly village market, called a haat.</string>
+    <string name="shop_dilli_address">Opposite INA Market, south Delhi. Pitampura</string>
+    <string name="shop_dilli_phone">+91 25289-9933</string>
+    <string name="shop_dilli_schedule">Mon - Fri 11am - 8pm</string>
+
+    <string name="shop_khan_name">Khan Market</string>
+    <string name="shop_khan_description">Khan Market is a small, U-shaped, well established shopping market in Delhi that’s one of Delhi’s classiest.
+        Bargain hunters are likely to be disappointed at this market.</string>
+    <string name="shop_khan_address"> South New Delhi, not far from India Gate</string>
+    <string name="shop_khan_phone">........</string>
+    <string name="shop_khan_schedule">All Days  10am –9pm</string>
+
+    <string name="shop_janpath_name">Janpath and Tibetan Market</string>
+    <string name="shop_janpath_description">This very popular and lively shopping market in Delhi, which was recently given a makeover,
+        has something for everyone.You’ll find goods from everywhere in India and Tibet </string>
+    <string name="shop_janpath_address">Janpath, just off Connaught Place, in central New Delhi.</string>
+    <string name="shop_janpath_phone">........</string>
+    <string name="shop_janpath_schedule">All Days 9am - 8pm</string>
+
+    <string name="shop_chandani_name">Chandani Chowk</string>
+    <string name="shop_chandani_description">The shopping district of Chandni Chowk has been in existence for hundreds of years and an exploration of its winding,
+        narrow alleyways is certainly an adventure.</string>
+    <string name="shop_chandani_address">Old Delhi</string>
+    <string name="shop_chandani_phone">........</string>
+    <string name="shop_chandani_schedule">All Days 9am - 8pm</string>
+
+    <string name="shop_sarojini_name">Sarojini Nagar Market</string>
+    <string name="shop_sarojini_description">Sarojini Nagar is most famous for its really cheap designer clothes and reputable brands that have been rejected from export,
+        either because of surplus quantity or small manufacturing defects.</string>
+    <string name="shop_sarojini_address">South West Delhi, near Safdarjung Airport.</string>
+    <string name="shop_sarojini_phone">........</string>
+    <string name="shop_sarojini_schedule">All Days 9am - 8pm</string>
+
+
+    <string name="sight_red_fort_name">Red Fort</string>
+    <string name="sight_red_fort_description">The Red sandstone walls of the massive Red Fort (Lal Qila) rise 33-m above the clamour of Old Delhi
+        as a reminder of the magnificent power and pomp of the Mughal emperors. </string>
+    <string name="sight_red_fort_address">Netaji Subhash Marg, Red Fort Delhi</string>
+    <string name="sight_red_fort_phone">+91 500-05-000</string>
+    <string name="sight_red_fort_schedule">Sunrise to Sunset Mondays closed.</string>
+    <string name="sight_red_fort_price"> Rs. 80 </string>
+
+    <string name="sight_india_gate_name">India Gate</string>
+    <string name="sight_india_gate_description">India Gate is a memorial to 82,000 soldiers of the Indian Army who died in the period 1914–21 in the First World War.</string>
+    <string name="sight_india_gate_address">astride of Rajpath</string>
+    <string name="sight_india_gate_phone">+91 23213-1111</string>
+    <string name="sight_india_gate_schedule">All days, Morning to Night</string>
+
+    <string name="sight_price_free">Free</string>
+
+    <string name="sight_lotus_name">Lotus Temple</string>
+    <string name="sight_lotus_description">The Lotus Temple, located in Delhi, India, is a Bahai House of Worship
+        that was dedicated in December 1986, having been completed for a total cost $10 million.</string>
+    <string name="sight_lotus_address">Near Kalkaji Temple, East of Nehru Place</string>
+    <string name="sight_lotus_phone">+91 303261-8326</string>
+    <string name="sight_lotus_schedule">Tue-Sun 9am to 5:30pm</string>
+
+    <string name="sight_jantar_name">Jantar Mantar</string>
+    <string name="sight_jantar_description">Jantar Mantar (Yantra - instruments, mantra - formulae) was constrcted in 1724. Maharaja Jai Singh of Jaipur who built
+        this observatory went on to build other observatories in Ujjain , Varanasi and Mathura.</string>
+    <string name="sight_jantar_address">Parliament Street, Connaught Place</string>
+    <string name="sight_jantar_phone">+91 90811-3015</string>
+    <string name="sight_jantar_schedule">All Days 9am-5pm</string>
+
+    <string name="sight_qutub_name">Qutub Minar</string>
+    <string name="sight_qutub_description">Qutub Minar is a minaret that forms part of the Qutub complex,
+        a UNESCO World Heritage Site, made of red sandstone and marble,
+        Qutub Minar is a 73-metre (240 feet) tall tapering tower of five storeys.</string>
+    <string name="sight_qutub_address">Mehrauli area of Delhi, India.</string>
+    <string name="sight_qutub_phone">+91 99-581-22471</string>
+    <string name="sight_qutub_schedule">All Days 9am – 6pm</string>
+
+    <string name="sight_rashtrapati_name">Rashtrapati Bhawan</string>
+    <string name="sight_rashtrapati_description">The Rashtrapati Bhavan or Presidential Residence
+        is the official home of the president located at the Western end of Rajpath in New Delhi, India. </string>
+    <string name="sight_rashtrapati_address">Rajpath, New Delhi, India</string>
+    <string name="sight_rashtrapati_phone">+91.........</string>
+    <string name="sight_rashtrapati_schedule">Monday to Friday 9:30am to 5:30pm</string>
+
+    <string name="sight_gurudwara_name">Gurudwara Bangla Sahib</string>
+    <string name="sight_gurudwara_description">Gurudwara Bangla Sahib is one of the most prominent Sikh gurdwara,
+        or Sikh house of worship, in Delhi, India and known for its association with the eighth Sikh Guru, Guru Har Krishan.</string>
+    <string name="sight_gurudwara_address">Connaught Place, New Delhi, India.</string>
+    <string name="sight_gurudwara_phone">+91 92-12321-00</string>
+    <string name="sight_gurudwara_schedule">open all days ,closes 3am-5am</string>
+</resources>
